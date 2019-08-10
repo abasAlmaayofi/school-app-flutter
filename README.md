@@ -1,1 +1,0 @@
-# SchoolMate-App
