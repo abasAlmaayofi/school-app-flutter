@@ -103,7 +103,7 @@ class ChatSearch extends StatelessWidget {
 
 class MySearchDelegate extends SearchDelegate {
   SearchController controller = Get.put(SearchController());
-  final teachersNames = ["Yassin", "osama"];
+  final teachersNames = ["Abas", "Almaayofi"];
 
   final recentTeachers = [];
 

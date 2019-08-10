@@ -7,8 +7,8 @@ class UserInformation {
   static var classid = 'Obvy45pTfBnKgtxViAfB';
   static var grade = 2;
   static var grade_average = 0.8;
-  static String first_name = 'Yassin';
-  static String last_name = 'Almhdi';
+  static String first_name = 'Abas';
+  static String last_name = 'Almaayofi';
   static String? Token;
   static var fees = '1000';
   static var phone = '0966666';
@@ -20,7 +20,7 @@ class UserInformation {
       'https://firebasestorage.googleapis.com/v0/b/school-management-system-6b1c2.appspot.com/o/profilePics%2FPAst7TbWWXcxEm5kf4SZJEHtoBZ2?alt=media&token=ac83a38c-026d-4a4d-a3c8-1d8871e028a3';
   static var clasname = 'A';
   static var fullfees = '900';
-  static var fullname = 'Yassin Almhdi';
+  static var fullname = 'Abas Almaayofi';
   static var about;
   static bool uParent = false;
 }
